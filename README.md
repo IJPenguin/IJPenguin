@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Penguin
-- 👀 I'am good at web dev though branching out isn't out of question
-- 🌱 I’m currently learning AI/ML
+- 👋 Hi, I’m Ishan  
+- 🐧 Call me Penguin
+- 🔧 Can build anything 
 - ☕ Chai peete hai chal ke
 <!---
 IJPenguin/IJPenguin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
